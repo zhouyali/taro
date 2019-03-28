@@ -1,0 +1,24 @@
+.login {
+    padding: 60px 30px;
+}
+.slogan{
+    font-size: 34px;
+    color: #999;
+    letter-spacing: 0;
+    display: inline-block;
+    margin-bottom: 150px;
+}
+.password,.username {
+    border-top: none !important;
+}
+.myBtn {
+    background: #ececec;
+    color: #999;
+    border: none;
+    border-radius: 50px !important;
+    margin-top: 150px;
+}
+.active {
+    background-image:linear-gradient(28deg,#fedd8b,#e3ba71 50%) !important;
+    color:#fff;
+}
